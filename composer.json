@@ -1,5 +1,5 @@
 {
-    "name": "spekulatius/spatie-crawler-toolkit-for-laravel",
+    "name": "uocnv/spatie-crawler-toolkit-for-laravel",
     "description": "Handy classes for Spatie's crawler when using it with Laravel.",
     "type": "library",
     "license": "MIT",
